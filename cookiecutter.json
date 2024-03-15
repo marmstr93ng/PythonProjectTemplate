@@ -1,0 +1,5 @@
+{
+    "project_name": "Python Project Template",
+    "project_slug": "{{cookiecutter.project_name.replace(' ', '') }}",
+    "project_short_description": ""
+}
