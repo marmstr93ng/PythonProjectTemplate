@@ -9,6 +9,12 @@ Boiler plates for the creation of Python Project Template.
 - Create a blank repository (no readme etc) on Github
 - Run `cookiecutter https://github.com/marmstr93ng/PythonProjectTemplate.git` filling in the prompted information
 - Connect the local directory to the git repository
+  - Inside the local folder run a git bash window
+  - Run `git init`
+  - `git remote add origin https://(the cloning URL).git`
+  - Add all file `git add .`
+  - Commit all files with an appropriate comment `git commit -m "feat: added modified boiler plate files"`
+  - `git push origin master`
 
 ## Reference
 
